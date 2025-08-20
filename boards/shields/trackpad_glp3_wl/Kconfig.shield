@@ -1,0 +1,3 @@
+
+config SHIELD_TRACKPAD_GLP3_WL
+    def_bool $(shields_list_contains,trackpad_glp3_wl)
