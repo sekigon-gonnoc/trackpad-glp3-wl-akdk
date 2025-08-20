@@ -1,7 +1,7 @@
 
 file_format: "1"
-id: trackpad_glp3_wl
-name: trackpad_glp3_wl
+id: trackpad_glp3_w
+name: trackpad_glp3_w
 type: shield
 features:
   - keys

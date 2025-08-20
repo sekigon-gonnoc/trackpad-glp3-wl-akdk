@@ -1,0 +1,7 @@
+
+if SHIELD_TRACKPAD_GLP3_W
+
+config ZMK_KEYBOARD_NAME
+    default "trackpad_glp3_w"
+
+endif
